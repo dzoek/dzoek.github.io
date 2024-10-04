@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dzoek.github.io/vFg/sitemap.vFg.gz
